@@ -7,14 +7,14 @@
                 "title" : "Professor for Biomedical Data Science and Director",
                 "image" : "SvenNahnsen",
                 "mail" : "c3Zlbi5uYWhuc2VuQHVuaS10dWViaW5nZW4uZGU=",
-                "phone" : "+49-7071-29-72163"
+                "phone" : "+49-7071-29-82530"
             },
             "team_member_1" : {
                 "name" : "Katrin Leichtle",
                 "title" : "Assistant to Prof. Nahnsen",
                 "image" : "KatrinLeichtle",
                 "mail" : "a2F0cmluLmxlaWNodGxlQHVuaS10dWViaW5nZW4uZGU=",
-                "phone" : "+49-7071-29-72164"
+                "phone" : "+49-7071-29-82530"
             }
         }
     },
@@ -111,6 +111,12 @@
                 "title" : "Research Software Engineer",
                 "image" : "SusanneJodoin",
                 "mail" : "c3VwcG9ydEBxYmljLnplbmRlc2suY29t"
+            },
+            "team_member_8" : {
+                "name" : "Jana Hoffmann",
+                "title" : "Research Software Engineer",
+                "image" : "JanaHoffmann",
+                "mail" : "amEuaG9mZm1hbm5AdW5pLXR1ZWJpbmdlbi5kZQ=="
             }
         }
     },
