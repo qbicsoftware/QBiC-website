@@ -147,6 +147,12 @@
                 "title" : "Data Steward",
                 "image" : "SteffenGreiner",
                 "mail" : "c3VwcG9ydEBxYmljLnplbmRlc2suY29t"
+            },
+            "team_member_4" : {
+                "name" : "Malak Rassem",
+                "title" : "Research Software Engineer",
+                "image" : "MalakRassem",
+                "mail" : "c3VwcG9ydEBxYmljLnplbmRlc2suY29t"
             }
         }
     }

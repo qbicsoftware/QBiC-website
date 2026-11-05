@@ -534,7 +534,7 @@ button {
     width: 100%;
     aspect-ratio: 5 / 6;
     object-fit: cover;
-    object-position: top center;
+    object-position: center;
     margin-bottom: var(--member-image-margin-bottom);
     display: block;
     border-radius: 12px;
