@@ -4,3 +4,6 @@
 # ide
 .vscode
 *.vscode
+
+# python virtualenv (local only, not needed by the site)
+.venv/
