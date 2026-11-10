@@ -98,3 +98,4 @@
   Also, every page's `<title>` is "Research Papers", copied from the research page.
 - Not covered anywhere in the repo: how WordPress itself is administered (site is hosted in
   WordPress and updated manually – see Deployment above).
+<!-- coding-agent-setup-template-rev: 0c88f06 -->
